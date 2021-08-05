@@ -1,0 +1,5 @@
+#Latex bins
+*.aux
+*.aup
+*.toc
+*.log
