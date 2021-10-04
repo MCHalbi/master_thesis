@@ -3,7 +3,6 @@
 # Modified by Philipp Jund
 # Originally from : http://tex.stackexchange.com/a/40759
 
-
 PROJNAME=thesis_main
 OUT_DIR=out
 .PHONY: $(PROJNAME).pdf all clean
